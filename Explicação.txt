@@ -1,0 +1,12 @@
+Os resultados coletados foram as temperaturas dos próximos 3 dias, contendo as máximas e as mínimas:
+
+Clima dos próximos 3 dias:
+           Temperatura Mínima Temperatura Máxima
+28/06/2025                 15                 26
+29/06/2025                 17                 27
+30/06/2025                 15                 23
+
+--------------------------------------------------------------------------------------------------
+Utilizando a biblioteca Matplotlib do Python, também extrai um gráfico de barras desses dados para facilitar a visualização dessas temperaturas. Para visualizar esse gráfico basta selecionar a opção 2 no menu!
+
+Site público onde realizei o web screaping: https://www.climatempo.com.br/
