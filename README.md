@@ -7,7 +7,7 @@ O site utilizado para web Scraping:
 
 ## ✅ Requisitos
 
-- Python **3.13**
+- Python **3.x**
 - `pandas`
 - `matplotlib`
 - `selenium`
